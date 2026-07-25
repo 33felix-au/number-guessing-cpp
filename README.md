@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/33felix-au/number-guessing-cpp.git
 ```
+
+*Initialized by app-architect-88 workspace automation.*
